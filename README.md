@@ -1,7 +1,7 @@
 ### Bruno aqui :)
 Atualmente Cientista de Dados. Curioso sobre dados voltando ao mercado financeiro e engenharia.
 
-- Engenheiro eletricista com experiencia em energia solar.
+- ☀ Engenheiro eletricista com experiencia em energia solar.
 - 🎮 Apaixonado por mercado financeiro e jogos
 - 📚 Sempre um estudante em crescimento.
 - 🖥️ Atualmente mais focado em:
