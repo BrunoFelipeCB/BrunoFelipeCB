@@ -8,8 +8,6 @@ Atualmente Cientista de Dados. Curioso sobre dados voltando ao mercado financeir
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://https://cdn.jsdelivr.net/npm/powerbi-client@2.22.3/dist/powerbi.min.js" />&nbsp;&nbsp;
-</div> 
 
 ##
 
