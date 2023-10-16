@@ -2,8 +2,8 @@
 Atualmente Cientista de Dados. Curioso sobre dados voltando ao mercado financeiro e engenharia.
 
 - Engenheiro eletricista com experiencia em energia solar.
-- 🧗🏼 Apaixonado por mercado financeiro e jogos
-- 🖥️ Sempre um estudante em crescimento.
+- 🎮 Apaixonado por mercado financeiro e jogos
+- 📚 Sempre um estudante em crescimento.
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
