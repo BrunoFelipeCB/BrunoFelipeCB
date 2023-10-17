@@ -1,5 +1,5 @@
 ### Hi, Bruno here :)
-Brazilian and Data Scientist. Curious about the world🌎.
+Brazilian and Data Scientist. Curious about the world 🌎.
 - ☀ Graduated in electrical engineering with experience in photovoltaic energy and passionate about data.
 - 🎮 My hobbies are gaming and financial markets.
 - 📚 Always studying and growth.
