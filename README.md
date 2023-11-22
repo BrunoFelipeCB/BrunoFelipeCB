@@ -22,9 +22,10 @@ Brazilian and Data Scientist. Curious about the world 🌎.
 - <a href="https://github.com/BrunoFelipeCB/Dataset-iris/blob/main/Iris.DataSet.ipynb">
     Project with the dataset Iris. Using basic concepts of Pandas, Matplotlib and Machine Learn.
   </a>
- <a href="https://github.com/BrunoFelipeCB/House-Prices/tree/main">
+- <a href="https://github.com/BrunoFelipeCB/House-Prices/tree/main">
     Complete project using the Kaggle database to predict house prices. Using OneHotEncoder, Ordinal Encoder, RandomForest, KNN, XGBoost.
-  </a>-
-   <a href="https://github.com/BrunoFelipeCB/Customer-Segmentation-Supermarket">
+  </a>
+- <a href="https://github.com/BrunoFelipeCB/Customer-Segmentation-Supermarket">
     Project on customer segmentation using a Kaggle dataset. Utilizing Pipeline, Sklearn, Seaborn, KMeans, and PCA.
-  </a>-
+  </a>
+  
