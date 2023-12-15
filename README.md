@@ -16,7 +16,7 @@ Brazilian and Data Scientist. Curious about the world 🌎.
 </a>&nbsp;
 
 
-#### Some projects I've worked on:
+#### Some projects I've worked on with Python:
 - <a href="https://github.com/BrunoFelipeCB/Dataset-iris/tree/main">
     Project with the dataset Iris. Using basic concepts of Pandas, Matplotlib and Machine Learn.
   </a>
@@ -26,4 +26,8 @@ Brazilian and Data Scientist. Curious about the world 🌎.
 - <a href="https://github.com/BrunoFelipeCB/Customer-Segmentation-Supermarket">
     Project on customer segmentation using a Kaggle dataset. Utilizing Pipeline, Sklearn, Seaborn, KMeans, and PCA.
   </a>
-  
+
+#### Project I've worked on with Power BI:
+- <a href="https://github.com/BrunoFelipeCB/Power-BI?tab=readme-ov-file">
+    Sales Project used to optimize sales through improvements in customer acquisition.
+  </a>
