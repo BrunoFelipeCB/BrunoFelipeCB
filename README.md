@@ -17,7 +17,7 @@ Brazilian and Data Scientist. Curious about the world 🌎.
 
 
 #### Some projects I've worked on:
-- <a href="https://github.com/BrunoFelipeCB/Dataset-iris/blob/main/Iris.DataSet.ipynb">
+- <a href="https://github.com/BrunoFelipeCB/Dataset-iris/tree/main">
     Project with the dataset Iris. Using basic concepts of Pandas, Matplotlib and Machine Learn.
   </a>
 - <a href="https://github.com/BrunoFelipeCB/House-Prices/tree/main">
