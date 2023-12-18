@@ -7,6 +7,8 @@ Brazilian and Data Scientist. Curious about the world 🌎.
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://img.icons8.com/?size=512&id=50051&format=png" />&nbsp;&nbsp;&nbsp;
 
 ##
 
