@@ -29,7 +29,8 @@ Brazilian and Data Scientist. Curious about the world 🌎.
     Project on customer segmentation using a Kaggle dataset. Utilizing Pipeline, Sklearn, Seaborn, KMeans, and PCA.
   </a>
 
-#### Project I've worked on with Power BI:
-- <a href="https://github.com/BrunoFelipeCB/Power-BI?tab=readme-ov-file">
+#### Project I've worked on with [Power BI](https://github.com/BrunoFelipeCB/Power-BI?tab=readme-ov-file):
+- <a href="https://github.com/BrunoFelipeCB/Power-BI/tree/main/Leads%20Dashboard">
     Sales Project used to optimize sales through improvements in customer acquisition.
   </a>
+  
