@@ -33,4 +33,7 @@ Brazilian and Data Scientist. Curious about the world 🌎.
 - <a href="https://github.com/BrunoFelipeCB/Power-BI/tree/main/Leads%20Dashboard">
     Sales Project used to optimize sales through improvements in customer acquisition.
   </a>
-  
+- <a href="https://github.com/BrunoFelipeCB/Power-BI/tree/main/Production%20Dashboard ">
+    Production Project designed to enhance manufacturing processes and efficiency through data-driven insights and strategic improvements.
+  </a>
+ 
