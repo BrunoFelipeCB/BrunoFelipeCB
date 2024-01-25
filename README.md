@@ -28,6 +28,9 @@ Brazilian and Data Scientist. Curious about the world 🌎.
 - <a href="https://github.com/BrunoFelipeCB/Customer-Segmentation-Supermarket">
     Project on customer segmentation using a Kaggle dataset. Utilizing Pipeline, Sklearn, Seaborn, KMeans, and PCA.
   </a>
+- <a href="https://github.com/BrunoFelipeCB/Case-Ifood">
+    Project on customer segmentation for an Ifood job application process. Utilizing Pipeline, Sklearn,Imblearn, Seaborn,GridSearchCV ,Logistic Regression, and PCA.
+  </a>
 
 #### Project I've worked on with [Power BI](https://github.com/BrunoFelipeCB/Power-BI?tab=readme-ov-file):
 - <a href="https://github.com/BrunoFelipeCB/Power-BI/tree/main/Leads%20Dashboard">
