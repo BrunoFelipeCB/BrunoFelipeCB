@@ -6,7 +6,6 @@ Brazilian, Data Scientist and Data Analyst. Curious about the world 🌎.
 - 🖥️ Currently focus in:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" />&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://img.icons8.com/?size=512&id=50051&format=png" />&nbsp;&nbsp;&nbsp;
 
@@ -16,7 +15,7 @@ Brazilian, Data Scientist and Data Analyst. Curious about the world 🌎.
 &nbsp;<a href="https://www.linkedin.com/in/brunofcb/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-
+##
 
 #### Some projects I've worked on with Python:
 - <a href="https://github.com/BrunoFelipeCB/Case-Ifood">
@@ -26,7 +25,7 @@ Brazilian, Data Scientist and Data Analyst. Curious about the world 🌎.
     [EN] Complete project using the Kaggle database to predict house prices. Using OneHotEncoder, Ordinal Encoder, RandomForest, KNN, XGBoost.
   </a>
 - <a href="https://github.com/BrunoFelipeCB/DesafioCienciadedados/tree/main">
-    [PT-BR] Complete project to predict A model that predicts Profit or Loss from sales.
+    [PT-BR] Project to develop a model that predicts Profit or Loss from sales.
   </a>
 - <a href="https://github.com/BrunoFelipeCB/Brazilian_E-Commerce">
     [PT-BR] Data Analysis Project Involving Brazilian Commerce.
