@@ -1,6 +1,6 @@
 ### Hi, Bruno here :)
-Brazilian and Data Scientist. Curious about the world 🌎.
-- ☀ Graduated in electrical engineering with experience in photovoltaic energy and passionate about data.
+Brazilian, Data Scientist and Data Analyst. Curious about the world 🌎.
+- ☀ Graduated in Electrical Engineering, MBA in Data Science.
 - 🎮 My hobbies are gaming, watching football and financial markets.
 - 📚 Always studying and growth.
 - 🖥️ Currently focus in:
@@ -19,24 +19,25 @@ Brazilian and Data Scientist. Curious about the world 🌎.
 
 
 #### Some projects I've worked on with Python:
-- <a href="https://github.com/BrunoFelipeCB/Dataset-iris/tree/main">
-    Project with the dataset Iris. Using basic concepts of Pandas, Matplotlib and Machine Learn.
+- <a href="https://github.com/BrunoFelipeCB/Case-Ifood">
+    [EN] Project on customer segmentation for an Ifood job application process. Utilizing Pipeline, Sklearn,Imblearn, Seaborn,GridSearchCV ,Logistic Regression, and PCA.
   </a>
 - <a href="https://github.com/BrunoFelipeCB/House-Prices/tree/main">
-    Complete project using the Kaggle database to predict house prices. Using OneHotEncoder, Ordinal Encoder, RandomForest, KNN, XGBoost.
+    [EN] Complete project using the Kaggle database to predict house prices. Using OneHotEncoder, Ordinal Encoder, RandomForest, KNN, XGBoost.
   </a>
-- <a href="https://github.com/BrunoFelipeCB/Customer-Segmentation-Supermarket">
-    Project on customer segmentation using a Kaggle dataset. Utilizing Pipeline, Sklearn, Seaborn, KMeans, and PCA.
+- <a href="https://github.com/BrunoFelipeCB/DesafioCienciadedados/tree/main">
+    [PT-BR] Complete project to predict A model that predicts Profit or Loss from sales.
   </a>
-- <a href="https://github.com/BrunoFelipeCB/Case-Ifood">
-    Project on customer segmentation for an Ifood job application process. Utilizing Pipeline, Sklearn,Imblearn, Seaborn,GridSearchCV ,Logistic Regression, and PCA.
+- <a href="https://github.com/BrunoFelipeCB/Brazilian_E-Commerce">
+    [PT-BR] Data Analysis Project Involving Brazilian Commerce.
   </a>
+
 
 #### Project I've worked on with [Power BI](https://github.com/BrunoFelipeCB/Power-BI?tab=readme-ov-file):
 - <a href="https://github.com/BrunoFelipeCB/Power-BI/tree/main/Leads%20Dashboard">
-    Sales Project used to optimize sales through improvements in customer acquisition.
+    [EN and PT-BR] Sales Project used to optimize sales through improvements in customer acquisition.
   </a>
 - <a href="https://github.com/BrunoFelipeCB/Power-BI/tree/main/Production%20Dashboard ">
-    Production Project designed to enhance manufacturing processes and efficiency through data-driven insights and strategic improvements.
+    [EN and PT-BR] Production Project designed to enhance manufacturing processes and efficiency through data-driven insights and strategic improvements.
   </a>
  
