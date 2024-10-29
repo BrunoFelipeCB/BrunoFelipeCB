@@ -19,17 +19,22 @@ Brazilian, Data Scientist and Data Analyst. Curious about the world 🌎.
 
 #### Some projects I've worked on with Python:
 - <a href="https://github.com/BrunoFelipeCB/Case-Ifood">
-    [EN] Project on customer segmentation for an Ifood job application process. Utilizing Pipeline, Sklearn,Imblearn, Seaborn,GridSearchCV ,Logistic Regression, and PCA.
+    [EN] ML - Clustering: Project on customer segmentation for an Ifood job application process. Utilizing Pipeline, Sklearn,Imblearn, Seaborn,GridSearchCV ,Logistic Regression, and PCA.
   </a>
 - <a href="https://github.com/BrunoFelipeCB/House-Prices/tree/main">
-    [EN] Complete project using the Kaggle database to predict house prices. Using OneHotEncoder, Ordinal Encoder, RandomForest, KNN, XGBoost.
+    [EN] ML - Prediction: Complete project using the Kaggle database to predict house prices. Using OneHotEncoder, Ordinal Encoder, RandomForest, KNN, XGBoost.
   </a>
-- <a href="https://github.com/BrunoFelipeCB/DesafioCienciadedados/tree/main">
-    [PT-BR] Project to develop a model that predicts Profit or Loss from sales.
+- <a href="https://github.com/BrunoFelipeCB/DesafioCienciadedados/tree/main](https://github.com/BrunoFelipeCB/Credit-Card-Fraud-Detection/blob/main/README.md">
+    [EN] ML - Classifier : Project to develop a model that classifier non-fraud and fraud.
   </a>
 - <a href="https://github.com/BrunoFelipeCB/Brazilian_E-Commerce">
     [PT-BR] Data Analysis Project Involving Brazilian Commerce.
   </a>
+- <a href="https://github.com/BrunoFelipeCB/DesafioCienciadedados/tree/main">
+    [PT-BR] ML - Prediction: Project to develop a model that predicts Profit or Loss from sales.
+  </a>
+
+
 
 
 #### Project I've worked on with [Power BI](https://github.com/BrunoFelipeCB/Power-BI?tab=readme-ov-file):
