@@ -24,7 +24,7 @@ Brazilian, Data Scientist and Data Analyst. Curious about the world 🌎.
 - <a href="https://github.com/BrunoFelipeCB/House-Prices/tree/main">
     [EN] ML - Prediction: Complete project using the Kaggle database to predict house prices. Using OneHotEncoder, Ordinal Encoder, RandomForest, KNN, XGBoost.
   </a>
-- <a href="https://github.com/BrunoFelipeCB/DesafioCienciadedados/tree/main](https://github.com/BrunoFelipeCB/Credit-Card-Fraud-Detection/blob/main/README.md">
+- <a href="https://github.com/BrunoFelipeCB/Credit-Card-Fraud-Detection">
     [EN] ML - Classifier : Project to develop a model that classifier non-fraud and fraud.
   </a>
 - <a href="https://github.com/BrunoFelipeCB/Brazilian_E-Commerce">
